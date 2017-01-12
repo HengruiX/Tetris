@@ -1,6 +1,6 @@
 # Tetris
 
-A Tetris game
+A Tetris game in Java
 
 The game allows the user to select a difficulty level. The score of the user will be counted in the game.
 
